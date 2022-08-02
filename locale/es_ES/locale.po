@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-01T11:05:13+00:00\n"
+"PO-Revision-Date: 2022-06-01T11:05:13+00:00\n"
+"Language: es_ES\n"
+
+msgid "plugins.reports.security.displayName"
+msgstr "Informe de seguridad"
+
+msgid "plugins.reports.security.description"
+msgstr ""
+"Este módulo realiza un análisis de la instalación de OJS y genera un informe "
+"sobre aspectos importantes de seguridad que necesitan atención."
+
+msgid "plugins.reports.security.viewReport"
+msgstr "Ver reporte"
+
+msgid "plugins.reports.security.report"
+msgstr "Reporte"
+
+msgid "plugins.reports.security.release"
+msgstr "versión"
